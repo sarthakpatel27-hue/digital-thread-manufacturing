@@ -1,5 +1,9 @@
 # Auto detect text files and perform LF normalization
+# Text files
 *.md text
+*.txt text
+
+# Binary files
 *.xlsx binary
 *.pdf binary
 *.docx binary
